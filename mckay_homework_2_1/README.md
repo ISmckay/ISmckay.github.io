@@ -1,0 +1,2 @@
+## Blog Entry for Week 2.1
+I found the homework to be fairly challenging and it took me a while to get comfortable with p5. Working along side the p5 reference website certainly helped me overcome quite a bit of confusion. Once I got the ball rolling however, I found myself enjoying the project and I had fun adding detail to my monster. The most difficult aspect of this entire project arose while I was attempting to upload it to my repository; and even as I type this README, I'm not sure if I'm doing it correctly. Fun project nonetheless, and I'm excited to learn more.
