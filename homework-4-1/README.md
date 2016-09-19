@@ -1,2 +1,2 @@
-**Blog Post for Homework 4.1
+##Blog Post for Homework 4.1
 Once I figured out how var and random worked, this assignment was very easy to complete. Watching the shiffman videos that covered variables was very helpful and the p5 reference site again proved to be very useful. Initially, I was structuring var wrong and it was causing me a lot of trouble. Random was also initially very confusing, but the p5 site had good examples that I played with until I understood what I was doing.
