@@ -4,7 +4,7 @@ For my final project I would like to recreate Pong within P5. Ideally, it would 
 
 Mockup:
 
-![Screenshot](http://imgur.com/a/a5tsN)
+![Screenshot](https://github.com/ISmckay/ISmckay.github.io/blob/master/pong_concept.jpg)
 
 Example: Classic Pong
 
