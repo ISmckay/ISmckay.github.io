@@ -1,17 +1,13 @@
-# Final Project Proposal
+# Final Project Overview
 
-For my final project I would like to recreate Pong within P5. Ideally, it would feature sound effects, a computer opponent that can play at different difficulties, and a fully functioning scoreboard.
+For my final project I recreated the original videogame, Pong. I spent a lot of time getting it to where it is and I'm proud to share my work. I wish I had tackled different aspects of my project earlier so that I could've had more time to fine tune and improve upon my project. It was fun making my own game (even if I was just ripping off the OG) and I enjoyed watching my work become interactive.
 
-Mockup:
+Video Demo:
 
-![Screenshot](https://github.com/ISmckay/ISmckay.github.io/blob/master/pong_concept.jpg)
+[![Pong Demo](http://imgur.com/a/Ytt6a)](https://www.youtube.com/watch?v=Fwo24Q8fYXg "Pong Demo")
 
-Example: Classic Pong
+Build Process Paper:
 
-[Pong](https://www.youtube.com/watch?v=it0sf4CMDeM)
+[Build Process Paper](https://github.com/ISmckay/ISmckay.github.io/blob/docs/mckay_projectpaper.pdf)
 
-Potential Road Blocks:
-Programming the computer combatant will most likely be a long and frustrating process. I expect road blocks around every corner as I relearn aspects of P5 that I'll need to utilize in order to create my project.
 
-Work Schedule:
-By the end of the coming weekend (11/20) I plan to have an outline of the classes and variables I'll need. By the end of the following week, I want to have a working version minus the computer combatant. The following 2 weeks after that will be dedicated to programming the computer combatant and working out any bugs.
